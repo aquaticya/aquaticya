@@ -27,7 +27,7 @@ PostgreSQL
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras 
 
-📫 How to reach me: erygina_a_v@mail.ru
+📫 Как связаться со мной: erygina_a_v@mail.ru
 
 <!--
 **aquaticya/aquaticya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
